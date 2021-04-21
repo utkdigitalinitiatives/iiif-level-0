@@ -14,7 +14,7 @@
   } ],
   "profile" : "http://iiif.io/api/image/2/level0.json",
   "width" : 4650,
-  "@id" : "http://localhost:8887/iiif/sample",
+  "@id" : "https://utkdigitalinitiatives.github.io/iiif-level-0/sample",
   "@context" : "http://iiif.io/api/image/2/context.json",
   "height" : 4050
 }

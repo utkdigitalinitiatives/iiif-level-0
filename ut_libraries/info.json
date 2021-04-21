@@ -23,7 +23,7 @@
   } ],
   "profile" : "http://iiif.io/api/image/2/level0.json",
   "width" : 749,
-  "@id" : "http://localhost:8887/iiif/ut_libraries",
+  "@id" : "https://utkdigitalinitiatives.github.io/iiif-level-0/ut_libraries",
   "@context" : "http://iiif.io/api/image/2/context.json",
   "height" : 259
 }
