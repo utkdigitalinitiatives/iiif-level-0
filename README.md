@@ -20,6 +20,6 @@ https://utkdigitalinitiatives.github.io/iiif-level-0/ut_libraries_centered/info.
 
 ## University Libraries Centered
 
-![Libraries Centered logo](/university_libraries/full/1474,/0/default.jpg)
+![Libraries Centered logo](/university_libraries_centered/full/737,/0/default.jpg)
 
 https://utkdigitalinitiatives.github.io/iiif-level-0/university_libraries_centered/info.json
